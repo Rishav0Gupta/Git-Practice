@@ -2,4 +2,4 @@ commit: 3;
 
 conflict1;
 
-feature1;
+feature2;
